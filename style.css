@@ -1,6 +1,6 @@
 *{
     color: rgb(7, 1, 1);
-    background: linear-gradient(90deg,rgba(180, 175, 175, 0.815),rgb(93, 167, 167));
+    background: rgb(48, 231, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -73,9 +73,6 @@ font-weight:bold;
     margin: 0;
     margin-bottom: 5px;
     margin-left: 5px;
-}
-input, button{
-    color: rgb(216, 216, 216);
 }
 
 .maxValues{
